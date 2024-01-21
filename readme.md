@@ -32,6 +32,7 @@ cd build
 cmake ..
 make
 ./THT_Soal8 <input video>
-``
+```
+
 ## Demo
 https://asciinema.org/a/113463
