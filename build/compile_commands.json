@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/gadzz/Documents/ROS_OpenCV/Soal 8/build",
+  "command": "/home/gadzz/miniconda3/envs/opencv/bin/x86_64-conda-linux-gnu-c++  -isystem /home/gadzz/miniconda3/envs/opencv/include/opencv4 -fvisibility-inlines-hidden -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/gadzz/miniconda3/envs/opencv/include -o CMakeFiles/THT_Soal8.dir/main.cpp.o -c \"/home/gadzz/Documents/ROS_OpenCV/Soal 8/main.cpp\"",
+  "file": "/home/gadzz/Documents/ROS_OpenCV/Soal 8/main.cpp",
+  "output": "CMakeFiles/THT_Soal8.dir/main.cpp.o"
+}
+]

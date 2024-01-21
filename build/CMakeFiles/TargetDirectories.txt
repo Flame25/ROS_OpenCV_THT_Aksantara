@@ -1,0 +1,3 @@
+/home/gadzz/Documents/ROS_OpenCV/Soal 8/build/CMakeFiles/THT_Soal8.dir
+/home/gadzz/Documents/ROS_OpenCV/Soal 8/build/CMakeFiles/edit_cache.dir
+/home/gadzz/Documents/ROS_OpenCV/Soal 8/build/CMakeFiles/rebuild_cache.dir
